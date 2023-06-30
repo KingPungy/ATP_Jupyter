@@ -2,4 +2,4 @@
 Jupyter Notebook voor ATP opdrachten
 
 
-gebruik de [trigger*](https://github.com/KingPungy/ATP_Jupyter)https://github.com/KingPungy/ATP_Jupyter file om de notebook te starten
+Gebruik de [Trigger-Jupyter-Notebook.bat](practicum-atp/Trigger-Jupyter-Notebook.bat) file om de notebook te starten
